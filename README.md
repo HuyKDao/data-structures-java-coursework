@@ -6,6 +6,7 @@ Write-ups of the projects I completed in **CS 61B: Data Structures** at UC Berke
 
 | # | Project | Focus | Key concepts |
 |---|---|---|---|
+| 2 | [Deques & Guitar Synthesizer](02-deques-and-guitar-synthesizer/) | Building core data structures | Linked lists, circular resizing arrays, generics, iterators, JUnit |
 | 3 | [NGordnet: Word Trends & WordNet](03-ngordnet-word-trends-and-wordnet/) | Data processing and graph search | Hash maps, tree maps, graphs, priority queues |
 
 ## Skills and tools
